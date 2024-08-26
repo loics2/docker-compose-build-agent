@@ -1,3 +1,10 @@
+## 1.4.2
+
+### Changed
+
+* Upgrade base image (20.10.7 -> 27.1.0)
+* Remove docker-compose installation with pip since it now comes with docker automatically
+
 ## 1.4.1 / 2022-11-07
 
 ### Changed
